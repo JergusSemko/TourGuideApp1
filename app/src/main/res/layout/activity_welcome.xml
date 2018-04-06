@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.tourguideapp.WelcomeActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dim16"
+            android:gravity="center_horizontal"
+            android:layout_centerHorizontal="true"
+            android:text="@string/bratislava_region"
+            android:textColor="@color/colorPrimaryText"
+            android:textSize="@dimen/text30"
+            android:textStyle="bold"
+            android:id="@+id/title"/>
+
+        <TextView
+            android:id="@+id/textIntro1"
+            style="@style/welcomeText"
+            android:layout_below="@id/title"
+            android:text="@string/welcome_title_info" />
+
+        <Button
+            android:id="@+id/buttonStart"
+            style="@style/welcomeText"
+            android:layout_width="300dp"
+            android:layout_height="133dp"
+            android:layout_below="@id/textIntro1"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/slovak_flag"
+            android:padding="@dimen/dim16" />
+
+    </RelativeLayout>
+
+</ScrollView>

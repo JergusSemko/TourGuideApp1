@@ -1,0 +1,135 @@
+<resources>
+
+    <!-- general terms -->
+    <string name="app_name">Tour Guide App</string>
+    <string name="bratislava_region">Bratislava Region</string>
+    <string name="title">Tour Guide App</string>
+    <string name="current_pic">current_pic</string>
+    <string name="current_web">current_web</string>
+    <string name="attraction">attraction</string>
+    <string name="thumb_pic">thumb_pic</string>
+
+    <string name="fragment_nature">Nature</string>
+    <string name="fragment_sights">Sights</string>
+    <string name="fragment_sports">Sports</string>
+    <string name="fragment_traditions">Traditions</string>
+
+    <string name="fragment">fragment</string>
+    <string name="place">place</string>
+    <string name="info">info</string>
+    <string name="web">web</string>
+    <string name="picture">picture</string>
+
+    <string name="welcome_title_info">Region Bratislava is situated on the south-west margin of Slovakia and it is the smallest
+        of Slovakian regions. Its southern part stretches along the Danube and borders on Hungary, the river Morava in the
+        west coincides with the borders of Austria. The core and metropolis of the region is the city of Bratislava, the
+        Capital of the Slovak Republic. It is an important industrial, political, economic and cultural centre.
+        Present Bratislava offers multiple options of cultural, sport or recreation activities right in the town or in
+        its close environs. International fairs and exhibitions are regularly organized here. The symbol of the region
+        is its viticultural tradition. Lovers of nature, folk art and quality wine are invited to visit the route known
+        as the Wine Road of Malé Karpaty. The greatest attractions in the lowland Podunajská nížina are the lakes Slnečné
+        jazerá situated on the edge of the town Senec.</string>
+
+    <!-- Fragment Names -->
+    <string name="sights">Sights</string>
+    <string name="traditions">Traditions</string>
+    <string name="nature">Nature</string>
+    <string name="sports">Sports</string>
+
+    <!-- Sights name -->
+    <string name="nameMuseum">Waterworks Museum</string>
+    <string name="nameSlavin">Slavin</string>
+    <string name="nameChatam">The memorial of Chatam Sofer</string>
+    <string name="nameCastle">Bratislava Castle</string>
+
+    <!-- Traditions name -->
+    <string name="nameWineRoute">Little Karpathian Wine Route</string>
+    <string name="nameChristmas">Bratislava Christmas Market</string>
+    <string name="nameCoronation">Coronation Ceremonies</string>
+    <string name="nameEkotop">Ekotopfilm</string>
+
+    <!-- Nature name -->
+    <string name="nameGarden">Botanical Garden Bratislava</string>
+    <string name="nameZOO">Zoological Garden Bratislava</string>
+    <string name="nameKobyla">Devinska Kobyla Mt.</string>
+    <string name="nameKarpaty">Male Karpaty</string>
+
+    <!-- Sports name -->
+    <string name="nameGolfBA">Golf and Country Club BA</string>
+    <string name="nameGolfWelten">Family Golf Resort Welten</string>
+    <string name="nameGolfTT">Golf Trnava</string>
+    <string name="nameGolfHB">Golf Course Hrubá Borša</string>
+
+    <!-- Sights description -->
+    <string name="infoMuseum">In the building, which was built in the functionalist style, you can admire not only the exposition, but also the original, in Slovakia rare terrazzo floor or the shield on the entrance facade with a coat of arms of the city incorporated. As a historical monument the first well of the Bratislava water supply facility situated on the island Sihoť was preserved. </string>
+    <string name="infoSlavin">A staircase leads to the cemetery with 6 mass graves and 278 individual ones. The central part is created by a ceremony hall, the dominant part of the monument. It is encircled by a magnificent colonnade. The entrance cassette door into the ceremony hall, whose walls are covered with marble, is decorated with a bronze relief composition by R. Pribiš from the outer side, commemorating the struggles during the World War II.</string>
+    <string name="infoChatam">Chatam Sófer educated hundreds of rabbis who spread his teachings throughout Europe. He was a highly respected authority who advised many personalities of the European Jewish community. He wrote and published several learned books including a collection of religious songs.</string>
+    <string name="infoCastle">It was an important fortified settlement at the end of the 9th century. The first written reference to Bratislava from 907 is related to this period; it mentions a battle between the Bavarians and early Magyars under the Brezalauspurc Castle. First, there was a pre-Romanesque stone palace in the 11th and 12th century on the castle hill. Generous reconstruction of the castle started in 1423 and the result of this reconstruction was a Gothic castle referred to as a Sigismund`s castle. Reconstruction of the castle called the Pálffys reconstruction was carried out in the period of the fading Renaissance style.</string>
+
+    <!-- Traditions description -->
+    <string name="infoWineRoute">The Wine Road of Malé Karpaty leads through the former royal towns Bratislava, Svätý Jur, Pezinok, and Modra, contiguous villages and ends in Trnava. Apart from cultural and historic monuments visitors will be certainly intrigued by tradition of varied folklore in individual communes of this region where they can pass nice time in numerous wine cellars tasting the excellent dish like the baked goose with a glass of fine local wine and listening to a popular band.</string>
+    <string name="infoChristmas">December is the traditionally the month when Hlavné, Františkánske and Hviezdoslavovo squares in Bratislava are alive with magical Christmas atmosphere. The most beautiful part of the town is full of savour of various delicacies and Christmas carols can be heard. It is full of people and good humour. One can find handicraft products, ceramics, wood, glass, cornhusk and textile products of the counters of the lovely stalls in the square as well as in the courtyard of the Old Town Hall. The products of the Association of the Guild of Historical crafts are especially interesting.</string>
+    <string name="infoCoronation">During the Turkish invasions Bratislava became the capital of Hungary and it got the privilege of a coronation town. In the years 1563 "en dash" 1830 ten Hungarian kings, one queen and eight royal wives were crowned in the Dome of St. Martin.</string>
+    <string name="infoEkotop">Sustainable Development (SD) is also about new technology, science, research, and ecology. The message of the Festival is the joining of two originally antagonist groups: technicians and ecologists. Every year the Festival presents the world current films and TV programs from the SD area, by means of which it educates both professionals and the general public.</string>
+
+    <!-- Nature description -->
+    <string name="infoGarden">"The Botanical Garden was founded at the beginning of the 1940s, but its history goes further back in time than that. Bratislava boasted of a similar garden as early as 1653, when Archbishop Lippay had the park of the archbishops' summer palace adapted into a garden that would serve science and public. It was the first of its kind in the Kingdom of Hungary."</string>
+    <string name="infoZOO">"The Zoological garden of Bratislava is one of the favourite attractions of Slovakia's capital. It keeps a total of almost 1,000 individuals of different animal species, which makes it one of Slovakia's largest zoos. Part of the ZOO is the Dinopark – an exhibition of Dinosaur models in their real size, the first to be installed in Slovakia."</string>
+    <string name="infoKobyla">The National Nature Reserve Devínska Kobyla is unique and very interesting locality for its flora. It stretches in the southern most part of the mountains Malé Karpaty on an area of 101 ha. It is situated between villages Devínska Nová Ves, Dúbravka and Devín on the territory of the Capital Bratislava.</string>
+    <string name="infoKarpaty">The Protected landscape area was designated in 1976 and its area is now 64 610 ha. Management and administration of the PLA seats in the town Modra. The PLA Malé Karpaty is not compact. Two smaller parts are separated from the main part, which reaches from Bratislava as far as Vrbové. The isolated massif of Devínská Kobyla is in the south and the mountains Čachtické Karpaty form an independent part in the north.</string>
+
+    <!-- Sports description -->
+    <string name="infoGolfBA">The technical parameters are adapted to the historical area with a baroque manor house and majestic old trees. The golf course is suitable for demanding players as well as for beginners. One of its advantages is that it is situated less than 6 km from the capital city of Bratislava. The club has been active in this domain since 1995.</string>
+    <string name="infoGolfWelten">Yet another golf resort in the vicinity of capitol of Slovakia.</string>
+    <string name="infoGolfTT">Trnava offers many recreational plesantries such as this one.</string>
+    <string name="infoGolfHB">Green Resort Golf Course Hrubá Borša with its 27 holes is located in the village of Hrubá Borša near Senec. This course is a place where the beautiful sport of golf will not only awaken your interest but will captivate it for good. At present, a nine-hole championship course is open (PAR 36).</string>
+
+    <!-- thumb Sights-->
+    <string name="quoteMuseum">Significant history of waterworks</string>
+    <string name="quoteSlavin">A monumental memorial Slavín with a cemetery</string>
+    <string name="quoteChatam">Resting place of the famous rabbi from Bratislava</string>
+    <string name="quoteCastle">Bratislava Castle is visible from a great distance</string>
+
+    <!-- thumb Traditions-->
+    <string name="quoteWineRoute">A strip of viticultural towns and villages</string>
+    <string name="quoteChristmas">The most beautiful part of the town in December</string>
+    <string name="quoteCoronation">Coronations are a magnificent three-day event</string>
+    <string name="quoteEkotop">International Festival of Sustainable Development Films</string>
+
+    <!-- thumb Nature-->
+    <string name="quoteGarden">The first of its kind opened in Slovakia</string>
+    <string name="quoteZOO">Almost 1,000 individuals of different animal species</string>
+    <string name="quoteKobyla">Unique and very interesting locality for its flora</string>
+    <string name="quoteKarpaty">The “green lungs“ of the mostly deforested south-western Slovakia.</string>
+
+    <!-- thumb Sports-->
+    <string name="quoteGolfBA">A beautiful park featuring a baroque manor house</string>
+    <string name="quoteGolfWelten">Relaxing place, ideal for a couple of swings</string>
+    <string name="quoteGolfTT">Come for the game, stay for the view</string>
+    <string name="quoteGolfHB">One of the most popular golf courses in the region</string>
+
+    <!-- Sights web address -->
+    <string name="webMuseum">http://slovakia.travel/en/waterworks-museum-in-bratislava</string>
+    <string name="webSlavin">http://slovakia.travel/en/slavin-bratislava</string>
+    <string name="webChatam">http://slovakia.travel/en/the-memorial-of-chatam-sofer-bratislava</string>
+    <string name="webCastle">http://slovakia.travel/en/bratislava-castle</string>
+
+    <!-- Traditions web address -->
+    <string name="webWineRoute">http://slovakia.travel/en/little-carpathian-wine-route</string>
+    <string name="webChristmas">http://slovakia.travel/en/bratislava-christmas-market-november-december</string>
+    <string name="webCoronation">http://slovakia.travel/en/coronation-ceremonies-june</string>
+    <string name="webEkotop">http://slovakia.travel/en/ekotopfilm-festival-of-sustainable-development-films-october</string>
+
+    <!-- Nature web address -->
+    <string name="webGarden">http://slovakia.travel/en/botanical-garden-in-bratislava</string>
+    <string name="webZOO">http://slovakia.travel/en/zoological-garden-bratislava</string>
+    <string name="webKobyla">http://slovakia.travel/en/devinska-kobyla-mt-male-karpaty-mts</string>
+    <string name="webKarpaty">http://slovakia.travel/en/protected-landscape-area-male-karpaty</string>
+
+    <!-- Sports web address -->
+    <string name="webGolfBA">http://slovakia.travel/en/golf-and-country-club-bratislava-bernolakovo</string>
+    <string name="webGolfWelten">http://slovakia.travel/en/family-golf-rezort-welten</string>
+    <string name="webGolfTT">http://slovakia.travel/en/golf-trnava</string>
+    <string name="webGolfHB">http://slovakia.travel/en/green-resort-golf-course-hruba-borsa</string>
+
+</resources>
